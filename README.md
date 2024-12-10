@@ -1,5 +1,5 @@
 # Portfolio
-This is a repository forr my portfolio
+This is a repository forr my portfolio by Bishak Dey
 
 # React + Vite
 
